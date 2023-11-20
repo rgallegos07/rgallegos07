@@ -7,7 +7,7 @@
   
 </h1>
 
-I'm the process of becoming a developer.
+I'm in the process of becoming a developer.
 Always worked in Administration but having fun changing to this world
 of programming.
 
