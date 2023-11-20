@@ -1,16 +1,17 @@
-### Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<!--
-**rgallegos07/rgallegos07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> Welcome to my page.👋 </h1>
 
-Here are some ideas to get you started:
+<h2>Im Rigo, from Honduras 🇭🇳</h2>
+In the process of becoming a developer.
+Always worked in Administration but having fun changing to this world
+of programming.</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Currently learning:</h3>
+<p align = 'center'>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react" />
+  </a>
+</p>
+
+
